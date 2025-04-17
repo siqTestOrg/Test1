@@ -3,7 +3,7 @@ using MyLibrary;
 
 namespace MyLibrary.Tests
 {
-    public class CalculatorTests
+    public class CalculatorTests 
     {
         [Fact]
         public void Add_ShouldReturnCorrectSum()
